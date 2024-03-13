@@ -4,7 +4,7 @@
 																		<h3>Proposed Solution</h3>
 									<blockquote>I have devised a solution to address this challenge by developing a platform that assesses soil condition and provides crop recommendations based on soil parameters such as nutrient content, moisture levels, and rainfall patterns. Leveraging a meticulously trained machine learning model, the solution ensures accurate crop suggestions. Moreover, it's cost-effective and easily accessible to users. </blockquote>
 									<h3>Technical Stack Description</h3>
-									<blockquote>After obtaining a comprehensive dataset from Kaggle, we utilized the LightGBM classification model for training. Users interact with our model by providing soil parameters, including:
+									<blockquote>After obtaining a comprehensive dataset from Kaggle, I have utilized the LightGBM classification model for training. Users interact with our model by providing soil parameters, including:
 <br>
 <li>N: Ratio of Nitrogen content in soil (kg/ha)</li>
 <li>P: Ratio of Phosphorous content in soil (kg/ha)</li>
